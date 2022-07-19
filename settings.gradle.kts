@@ -1,0 +1,1 @@
+rootProject.name = "com.life_manager.life_manager-backend"
