@@ -1,0 +1,1 @@
+web: ./build/install/com.life_manager.life_manager-backend/bin/com.life_manager.life_manager-backend
